@@ -1,0 +1,2 @@
+# Specify line ending configuration for .ipynb files
+*.ipynb text eol=lf
