@@ -1,0 +1,27 @@
+Matplotlib:
+
+import matplotlib.pyplot as plt
+<<
+1. Line Plot: plt.plot(x, y) 
+2. Scatter Plot: plt.scatter(x, y) 
+3. Bar Plot: plt.bar(x, height) 
+4. Histplot: plt.hist(data, bins=10) 
+5. Box Plot: plt.boxplot(data) 
+6. Pie Plot: plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=90) 
+7: Stacked Bar Plot: plt.bar(categories, values1, label='Label 1')
+                     plt.bar(categories, values2, bottom=values1, label='Label 2')
+>>
+plt.xlabel('X-axis Label')
+plt.ylabel('Y-axis Label')
+plt.title('Title')
+plt.legend()
+plt.show()
+
+
+
+
+Seaborn: 
+1. Relplot: Scatterplot, Lineplot
+2. Distplot: Histplot, Kdeplot, Ecdfplot, Rugplot
+3. Catplot: Stripplot,Swarmplot,Boxplot,Violinplot,Pointplot,Barplot,Countplot 
+

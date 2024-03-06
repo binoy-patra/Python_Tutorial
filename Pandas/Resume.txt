@@ -1,0 +1,47 @@
+Binoy Patra 
+Software Trainee- DCG Data-Core Systems(India) Private Limited
+
+Summery: 
+Software Trainee with 1 year and 8 months of experience. 
+Proficient in Python, Machine Learning, Data Science,SQL and Oracle. 
+Contributed to impactful projects in face detection and OCR. Skilled in writing clean code, analyzing source code, and delivering detailed reports. 
+Currently engaged in a project using Oracle, prioritizing tasks for timely completion. Proactive learner, always staying updated with industry trends. 
+Eager to transition into roles in data analytics or data science in the future.
+
+
+Education:
+1. Aliah University 
+B.Tech(ECE) ,2019-2022, CGPA: 8.51, Overall Percentage: 78.8
+Major Project : Develoment of non-invasive type diabetes detector 
+Certification/Internship: Advance Diploma in computer Hardware and Networking Management From Central Tool Room and Training Centre, 2021
+
+2. Jnan Chandra Ghosh Polytechnic 
+Diploma in Electronics and Telecommunication Engineering ,2016-2019 ,CGPA: 8.2, Overall Percentage: 77%
+
+Skill: 
+C, Python, SQL, Oracle P/L SQL  
+Data Cleaning and Visualization, Machine Learning, Data Science , Power BI, Analytical Thinking , Problem Solving Skill
+
+Projects: 
+1. Oracle to Oracle Data Migration (March, 2023-Present), DCG Data-Core Systems (India) Private Limited 
+2. Admit Card Process using OCR (2022), DCG Data-Core Systems (India) Private Limited 
+3. Face Detection using Open CV, Deep Learning (2022), DCG Data-Core Systems (India) Private Limited 
+
+
+
+
+Software Trainee|DCG Data-Core Systems (India) Private Limited
+Kolkata, West Bengal, India, Jun 2022-Current
+
+Software Trainee with 1 year and 8 months of experience.
+Self-motivated data analyst enthusiast eager to transition into roles in Data Analytics or Data Science in the future.
+Proactive learner, always staying updated with industry trends.
+
+Self-motivated data analyst enthusiast eager to join Analytical domain and bring my skill in data analysis, and data visualization to every project that will be received in the future.
+
+
+Wrote clear, clean code for diverse projects.
+Analyzed source code to identify and resolve functionality issues, contributing to the overall improvement of project efficiency.
+Prioritized tasks effectively, ensuring timely completion.
+Delivered detailed project reports and milestone updates to supervisors, showcasing a commitment to transparent communication and project management.
+Collaborated seamlessly with cross-functional teams.

@@ -1,0 +1,63 @@
+Numpy 
+
+numpy exercise: https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md
+
+Array Creation:
+1. np.array(object, dtype=None, copy=True, order='K', subok=False, ndmin=0)
+2. np.zeros(shape, dtype=float, order='C')
+3. np.ones(shape, dtype=None, order='C')
+4. np.arange([start, ]stop, [step, ]dtype=None)  or np.arange(no of element)
+5. np.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None)
+6. np.empty(shape) and np.empty_like(old_array)
+7. np.identity(shape, dtype=float, order='C') or np.eye(shape, dtype=float, order='C')
+8. np.random.rand() or np.random.randn() or np.random.randint(size/shape/no.of element or start,end, no of elemennt)
+
+Reshape:
+1. array.reshape(new_shape)  
+2. array.ravel() 
+3. np.T(array) or np.transpose(array)
+4. np.flat(array)
+5. np.expand_dims(array,axis=0,1)
+
+Attributes:
+1. array.dim
+2. array.ndim
+3. array.shape
+4. array.size
+5. array.itemsize
+6. array.dtype
+7. array.nbytes
+
+** Indexing, Slicing, Iterting using loops are same as Python List
+** Filter: array[conditon]  #Ex: array[array>5] or array[array>10 & array<7] 
+** np.any(), np.all()
+
+Operations:
+1. Arithmetic: array1 (+,-,*,/) array2 || Relational: array==value || Trigonomoetric: np.sin/sinh/cos/cosh/tan/tanh(array) 
+2. array.sum(), array.prod(), array.max(), array.min() || np.sum/prod/min/max(array)
+3. array.mean(), array.median(), array.std(), array.var() || np.mean/median/std/var(array)  || np.percentile(array, percentile_value) || np.histogram(a,bins=[0,50,100]) || np.corrcoef(array1,array2)
+4. np.sqrt(array)
+5. np.where(condition) # Such as : array>5
+6. np.count_nonzero(array)
+7. np.count_zero(array)
+8. np.nonzero(array)
+9. np.sort(array, axis= 0 or 1)
+10. np.append(array, value)
+11. np.concatenate(array1, array2, axis= 0 or 1)
+12. np.unique(array)
+13. np.argmax(array, axis= 0 or 1)
+14. np.argmin(array, axis= 0 or 1)
+15. np.cumsum(array, axis= 0 or 1)
+16. np.cumprod(array, axis= 0 or 1)
+17. np.cross/dot(array1,array2)
+18. np.log/exponent(array)
+19. np.round/floor/ceil(array)
+20. Stacking and Splitting: np.hstack/vstack((array1,array2)) || np.hsplit/vsplit(array, indices_or_sections)
+21. a[np.isin(a,items)]
+22. np.flip(a)
+23. np.delete(a,[0,2,4])
+24. np.put(a,[0,1],[110,530])
+25. np.union1d/intersect1d/setdiff1d/setxor1d(array1,array2)    / np.in1d
+26. np.clip(array,min_value,max_value)
+
+

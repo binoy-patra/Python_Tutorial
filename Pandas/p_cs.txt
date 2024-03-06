@@ -1,0 +1,11 @@
+Dataframe['New_column']=[values]
+df.assign(New_Column1=values1, New_Column2=values2, ...)
+
+del df['Column_Name']
+df.drop(columns=['Column_Name1', 'Column_Name2', ...], inplace=True)
+
+
+df.drop('Column_Name', axis=1, inplace=True)
+df.drop(['Column1', 'Column2'], axis=1, inplace=True)
+
+
